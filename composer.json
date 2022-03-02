@@ -1,0 +1,16 @@
+{
+    "name": "geo/abc",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Geo\\Abc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AtomicXtreme",
+            "email": "trifa.george12@gmail.com"
+        }
+    ],
+    "require": {}
+}
